@@ -2,7 +2,6 @@
   
   # 🤝 AERO-CONNECT
   ### *Inter-Departmental Grievance Management System*
-
   <!-- Badges -->
   <p align="center">
     <a href="https://github.com/Abskrdev20/AERO-CONNECT/stargazers">
@@ -18,11 +17,7 @@
       <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render" alt="Render"/>
     </a>
   </p>
-
-
 </div>
-
----
 
 ## 📖 Overview
 
@@ -78,13 +73,14 @@
 </table>
 
 ---
+
 ## 🎬 Video Walkthrough
 
 Experience the full capabilities of AERO-CONNECT. Click the thumbnail below to watch the demonstration.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=0ExO65fYk9g" target="_blank">
-    <img src="https://img.youtube.com/vi/0ExO65fYk9g/maxresdefault.jpg" alt="AERO-CONNECT Video Demo" width="80%" style="border-radius: 10px; box-shadow: 0px 4px 12px rgba(0,0,0,0.3);"/>
+    <img src="https://img.youtube.com/vi/0ExO65fYk9g/maxresdefault.jpg" alt="AERO-CONNECT Video Demo" width="80%" style="border-radius: 25px; box-shadow: 0px 4px 12px rgba(0,0,0,0.3);"/>
   </a>
   <p><em>👆 Click to play the video demonstration</em></p>
 </div>
@@ -109,6 +105,8 @@ AERO-CONNECT/
 ├── package.json            # Project metadata and dependencies
 └── README.md               # Documentation
 ```
+
+---
 ## 🛠️ Tech Stack
 
 <table>
@@ -167,8 +165,6 @@ AERO-CONNECT/
   </tr>
 </table>
 
----
-
 ## 🚀 Installation
 
 ```bash
@@ -190,14 +186,13 @@ cp .env.example .env
 # 6️⃣ Start the application
 node app.js
 ```
-## 🤝 Contributing
+## 🎖️ Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
----
-<div align="center">
-❤️ Made with love for the Airports Authority of India (AAI)
-<p> Crafted by the <strong>AERO-CONNECT Team</strong>. </p> 
+<div align="center"> 
 <a href="https://github.com/Abskrdev20/AERO-CONNECT/stargazers"> <img src="https://img.shields.io/badge/⭐%20Star%20This%20Repository-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Star Repo"/> </a> <a href="https://github.com/Abskrdev20/AERO-CONNECT/fork"> <img src="https://img.shields.io/badge/🍴%20Fork%20This%20Repository-0066FF?style=for-the-badge&logo=git&logoColor=white" alt="Fork Repo"/> </a>
 <br/>
+❤️ Made with love for the Airports Authority of India (AAI)
+<p> Crafted by the <strong>AERO-CONNECT Team</strong>. </p>
 <sub>© 2026 AERO-CONNECT | All Rights Reserved</sub>
 </div> 
